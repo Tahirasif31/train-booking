@@ -25,12 +25,11 @@ const SignaturePackages = () => {
             Private Space
           </h3>
           <h4 className="text-xl font-bold text-blue-700 mt-4">Roomette</h4>
-          <p className="text-gray-600 mt-2">
+          <p className="text-gray-600 mt-3">
             The roomette provides exclusive, private space for one or two
             passengers, ensuring comfort and privacy throughout the journey.
             High-quality linens, pillows, and a plush mattress ensure a restful
-            sleep experience. Large windows offering panoramic views of the
-            passing landscapes, with options for privacy curtains or blinds.
+            sleep experience.
           </p>
         </div>
 
@@ -45,7 +44,7 @@ const SignaturePackages = () => {
             Reclining Seats
           </h3>
           <h4 className="text-xl font-bold text-blue-700 mt-4">Coach Class</h4>
-          <p className="text-gray-600 mt-2">
+          <p className="text-gray-600 mt-3">
             Seats designed for comfort with adjustable recline, headrest, and
             ample legroom, allowing passengers to relax during the journey.
             Temperature-controlled environment with adjustable air vents to
@@ -66,12 +65,11 @@ const SignaturePackages = () => {
           <h4 className="text-xl font-bold text-blue-700 mt-4 text-left">
             Family Bedrooms
           </h4>
-          <p className="text-gray-600 mt-2 text-left">
+          <p className="text-gray-600 mt-3 text-left">
             Typically includes multiple beds or sleeping berths to accommodate
             several family members or group travelers comfortably. High-quality
             mattresses, linens, and pillows ensuring a restful sleep experience
-            for all occupants. Separate sleeping areas or partitions within the
-            bedroom for privacy among family members.
+            for all occupants.
           </p>
         </div>
       </div>

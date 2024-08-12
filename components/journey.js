@@ -2,7 +2,7 @@ import React from "react";
 
 const PlanYourJourney = () => {
   return (
-    <div className="bg-gray-100 py-12 px-4">
+    <div className="bg-gray-100 py-12 px-4 md:px-28">
       <div className="mb-8">
         <h4 className="text-lg text-gray-600">Family-Friendly Adventures</h4>
         <h2 className="text-3xl font-bold text-blue-700">Plan Your Journey</h2>
@@ -15,7 +15,7 @@ const PlanYourJourney = () => {
         {/* Coast Starlight */}
         <div className="flex flex-col">
           <img
-            src="path_to_image/coast_starlight.jpg"
+            src="/journey-1.jpg"
             alt="Coast Starlight"
             className="w-full mb-4 rounded-lg"
           />
@@ -27,7 +27,7 @@ const PlanYourJourney = () => {
         {/* Southwest Chief */}
         <div className="flex flex-col">
           <img
-            src="path_to_image/southwest_chief.jpg"
+            src="/jouney-2.jpg"
             alt="Southwest Chief"
             className="w-full mb-4 rounded-lg"
           />
@@ -39,7 +39,7 @@ const PlanYourJourney = () => {
         {/* Crescent */}
         <div className="flex flex-col">
           <img
-            src="path_to_image/crescent.jpg"
+            src="/jouney-3.jpg"
             alt="Crescent"
             className="w-full mb-4 rounded-lg"
           />
@@ -51,7 +51,7 @@ const PlanYourJourney = () => {
         {/* Cardinal */}
         <div className="flex flex-col">
           <img
-            src="path_to_image/cardinal.jpg"
+            src="/jouney-4.jpg"
             alt="Cardinal"
             className="w-full mb-4 rounded-lg"
           />

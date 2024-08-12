@@ -16,6 +16,7 @@ export default function Home() {
       <Services />
       <SignaturePackages />
       <PlanYourJourney />
+      <Footer />
     </main>
   );
 }
