@@ -26,10 +26,10 @@ const Navbar = () => {
       <div className="container mx-auto px-4 flex justify-between items-center py-2">
         {/* Logo */}
         <div className="flex items-center">
-          <img src="/logo.png" alt="Logo" className="h-8 w-auto mr-2" />
           <span className="text-sm text-gray-700 font-semibold">
-            Am Train Trac
+            Train Booking
           </span>
+          <img src="/2.png" alt="Logo" className="h-8 w-auto mr-2" />
         </div>
 
         {/* Desktop Menu */}
@@ -55,7 +55,7 @@ const Navbar = () => {
             href="tel:+18336489287"
             className="bg-pink-500 text-white mx-6 px-6 py-2 rounded-full hidden md:block"
           >
-            TOLL FREE +1 (833) 6489287
+            TOLL FREE (833) 6489287
           </a>
         </div>
 
