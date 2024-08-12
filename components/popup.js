@@ -10,13 +10,13 @@ const Popup = ({ isOpen, onClose }) => {
         <p className="text-gray-700 mb-4">Book Your Train Now!</p>
         <a
           href="tel:+18336489287"
-          className="bg-pink-500 text-white mx-6 px-6 py-2 rounded-full hidden md:block mb-5"
+          className="bg-pink-500 text-white  px-6 py-2 rounded-full mb-5"
         >
-          TOLL FREE (833) 6489287
+          TOLL FREE (833) 648-9287
         </a>
         <div className="flex justify-end">
           <button
-            className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-700"
+            className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-700 mt-5"
             onClick={onClose}
           >
             Close
