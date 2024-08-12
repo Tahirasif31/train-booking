@@ -8,7 +8,7 @@ const Hero = () => {
     >
       <div className="container mx-auto h-full flex flex-col md:flex-row items-center justify-center">
         {/* Text Section */}
-        <div className="text-center md:text-left px-4 md:px-8 basis-2/5">
+        <div className="mt-12 justify-center text-center md:text-left px-4 md:px-8 basis-2/5">
           <h1 className="text-2xl md:text-4xl font-bold text-blue-700 mb-4">
             Explore Amazing Sightseeing with Am Train Trac
           </h1>
