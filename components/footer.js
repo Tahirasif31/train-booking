@@ -19,10 +19,10 @@ const Footer = () => {
         </div>
         <div className="text-center">
           <p>
-            123 Fifth Avenue, NY 10160, New York, USA | Phone: 855-518-1787 |
-            Email: booking@amtraintrac.com
+            24511 Stone Falcon Ln, Katy, TX 77494, USA | Phone: 833-648-9287 |
+            Email: booking@trainbooking.us
           </p>
-          <p className="mt-4">&copy; 2024 Amtraintrac</p>
+          <p className="mt-4">&copy; 2024 Train Booking</p>
         </div>
       </div>
     </footer>
