@@ -5,17 +5,16 @@ const PrivacyPolicy = () => {
     <section className="max-w-6xl mx-auto p-6  bg-white">
       <h1 className="text-3xl font-bold mb-6">Privacy Policy</h1>
       <p className="text-gray-700 leading-relaxed mb-4">
-        On the Amtraintrac understands clearly that The Buyers and Buyer’s
-        Personal Information is one of the most important assets. On the
-        Amtraintrac stores and processes Buyer’s Information including any
-        sensitive financial information collected (as defined under the
-        Information Technology Act, 2000), if any, on computers that may be
-        protected by physical as well as reasonable technological security
-        measures and procedures in accordance with Information Technology Act
-        2000 and Rules thereunder. On the Amtraintrac current Privacy Policy is
-        available at the Privacy Policy Page. If The Buyers object to Buyer’s
-        Information being transferred or used in this way please do not use
-        Website.
+        On the Train Booking understands clearly that The Buyers and Buyer’s
+        Personal Information is one of the most important assets. On the Train
+        Booking stores and processes Buyer’s Information including any sensitive
+        financial information collected (as defined under the Information
+        Technology Act, 2000), if any, on computers that may be protected by
+        physical as well as reasonable technological security measures and
+        procedures in accordance with Information Technology Act 2000 and Rules
+        thereunder. On the Train Booking current Privacy Policy is available at
+        the Privacy Policy Page. If The Buyers object to Buyer’s Information
+        being transferred or used in this way please do not use Website.
       </p>
 
       <h2 className="text-xl font-semibold mb-2">
@@ -32,7 +31,7 @@ const PrivacyPolicy = () => {
 
       <h2 className="text-xl font-semibold mb-2">Information</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        On the Amtraintrac records, stores, and analyses the data that is
+        On the Train Booking records, stores, and analyses the data that is
         available to us through any of our platforms and stores. This includes
         the data that the Buyer provides when a purchase is made at the store or
         on the website. The following is the information we request the Buyer to
@@ -99,18 +98,6 @@ const PrivacyPolicy = () => {
         third-party partners such as Google Analytics for marketing and
         analytical purposes. Google Analytics helps us understand how our
         customers use the site.
-      </p>
-
-      <p className="text-gray-700 leading-relaxed mb-4">
-        You can read more about how Google uses your Personal Information here:
-        <a
-          href="https://www.google.com/intl/en/policies/privacy/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-blue-500 hover:underline"
-        >
-          https://www.google.com/
-        </a>
       </p>
     </section>
   );
