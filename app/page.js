@@ -18,7 +18,7 @@ export default function Home() {
 
   useEffect(() => {
     const script = document.createElement("script");
-    script.src = "https://embed.tawk.to/66d8529450c10f7a00a3eac5/1i6ug5690";
+    script.src = "https://embed.tawk.to/66d85c37ea492f34bc0d9f6d/1i6uigemu";
     script.async = true;
     script.charset = "UTF-8";
     script.setAttribute("crossorigin", "*");
