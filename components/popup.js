@@ -14,7 +14,7 @@ const Popup = ({ isOpen, onClose }) => {
           href="tel:+18884948492"
           className="bg-pink-500 text-white  px-6 py-2 rounded-full mb-5"
         >
-          TOLL FREE (888) 494-8492
+          TOLL FREE (888) 746-1595
         </a>
         <div className="flex justify-end">
           <button

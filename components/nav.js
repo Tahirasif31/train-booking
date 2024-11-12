@@ -55,7 +55,7 @@ const Navbar = () => {
             href="tel:+18884948492"
             className="bg-pink-500 text-white mx-6 px-6 py-2 rounded-full hidden md:block"
           >
-            TOLL FREE (888) 494-8492
+            TOLL FREE (888) 746-1595
           </a>
         </div>
 

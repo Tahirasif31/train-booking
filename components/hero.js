@@ -20,7 +20,7 @@ const Hero = () => {
             href="tel:+18884948492"
             className="bg-blue-600 text-white px-6 py-2 rounded-full inline-block hover:bg-blue-700 transition"
           >
-            CALL NOW (888) 494-8492
+            CALL NOW (888) 746-1595
           </a>
         </div>
 
