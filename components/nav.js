@@ -52,10 +52,10 @@ const Navbar = () => {
 
           {/* Toll-Free Button - Visible only on Desktop */}
           <a
-            href="tel:+18884948492"
+            href="tel:+18885943077"
             className="bg-pink-500 text-white mx-6 px-6 py-2 rounded-full hidden md:block"
           >
-            TOLL FREE (888) 746-1595
+            TOLL FREE (888) 594-3077
           </a>
         </div>
 

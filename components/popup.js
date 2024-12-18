@@ -11,10 +11,10 @@ const Popup = ({ isOpen, onClose }) => {
           Book Your Ticket Now & Get Discount
         </p>
         <a
-          href="tel:+18884948492"
+          href="tel:+18885943077"
           className="bg-pink-500 text-white  px-6 py-2 rounded-full mb-5"
         >
-          TOLL FREE (888) 746-1595
+          TOLL FREE (888) 594-3077
         </a>
         <div className="flex justify-end">
           <button

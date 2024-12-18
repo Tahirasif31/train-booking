@@ -19,7 +19,7 @@ const Footer = () => {
         </div>
         <div className="text-center">
           <p>
-            24511 Stone Falcon Ln, Katy, TX 77494, USA | Phone: (888) 494-8492 |
+            24511 Stone Falcon Ln, Katy, TX 77494, USA | Phone: (888) 594-3077 |
             Email: booking@trainbooking.us
           </p>
           <p className="mt-4">&copy; 2024 Train Booking</p>
